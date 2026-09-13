@@ -103,12 +103,12 @@
    "ui/motif-midnight.png"
   ],
   "bandeaux": [
-   "bandeaux/bandeau-actionverite.jpg",
-   "bandeaux/bandeau-kems.jpg",
-   "bandeaux/bandeau-petitbac.jpg",
-   "bandeaux/bandeau-pouilleux.jpg",
-   "bandeaux/bandeau-president.jpg",
-   "bandeaux/bandeau-pyramide.jpg"
+   "bandeaux/bandeau-actionverite.png",
+   "bandeaux/bandeau-kems.png",
+   "bandeaux/bandeau-petitbac.png",
+   "bandeaux/bandeau-pouilleux.png",
+   "bandeaux/bandeau-president.png",
+   "bandeaux/bandeau-pyramide.png"
   ]
  }
 }
